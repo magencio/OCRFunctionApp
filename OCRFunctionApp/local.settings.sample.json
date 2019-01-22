@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "InputStorage": "UseDevelopmentStorage=true",
+    "CosmosDBConnection": "AccountEndpoint=https://localhost:8081/;AccountKey=C2y6yDjf5/R+ob0N8A7Cgv30VRDJIWEHLM+4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw/Jw==;",
+    "OneOCREndpoint": "https://westus.api.cognitive.microsoft.com",
+    "OneOCRSubscriptionKey": "<<your Computer Vision key>>",
+    "MSOCREndpoint": "https://westus.api.cognitive.microsoft.com",
+    "MSOCRSubscriptionKey": "<<your Computer Vision key>>"
+  }
+}
